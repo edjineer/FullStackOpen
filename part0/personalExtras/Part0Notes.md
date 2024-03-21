@@ -45,8 +45,26 @@ https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML
 ## 0.2 CSS Basics
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
 - CSS = Cascading Style Sheets 
-- Use <link href="main.css" rel="stylesheet">
+- Use <link href="main.css" rel="stylesheet"> in HTML document 
+- Name of these items are the "ruleset", item is selector, proprty and property value, both = declaration
+- Each Ruleset must be wrapped in curly braces 
+- Use Colon to separate property from property value 
+- Separate Declarations with semi colons 
+- Can use many types of selectors: element, id selector, class selector, attribute selectors, pseudo-class selectors 
+#### Fonts and Text and Boxes 
+- Padding, Margin, Border
+- For margin, 2 values = top+bottom, second value is left+right. Auto = divide available horiz space between left and right
+- Text Shadow looks gross 
+- Center Image 
 
+## 0.3 Forms
+https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form 
+- Web form form controls 
+- Input element. Can introduce form validation
+Form
+- 2 attributes you should set: method(get/post) and action(link)
+
+## 0.4 New Note Diagram 
 
 
 # Curiosity Questions for the future
@@ -54,4 +72,4 @@ https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_
 - Alternatives to UTF8 as a character set 
 - More info on viewport
 - Accessibility Learning Module https://developer.mozilla.org/en-US/docs/Learn/Accessibility 
-
+- Display attribute, block setting 
