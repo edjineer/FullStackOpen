@@ -43,6 +43,9 @@ https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML
 - Links = anchors <a href="link"> hypertext reference 
 
 ## 0.2 CSS Basics
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
+- CSS = Cascading Style Sheets 
+- Use <link href="main.css" rel="stylesheet">
 
 
 
