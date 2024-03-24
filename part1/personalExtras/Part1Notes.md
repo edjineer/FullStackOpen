@@ -34,7 +34,7 @@ Best Practices/Enforced Rules
 - Mentions examples of ThymeLeaf and Java Spring Templating languages 
 
 
-
+# Exercise Notes
 
 
 
