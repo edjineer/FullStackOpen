@@ -31,6 +31,8 @@ Best Practices/Enforced Rules
 - Vite vs Create React App: Name of the application startup file switched startup file (index.js), vite also runs with npm run dev 
 - History on ES6 
 - How exactly does babel work 
+- Mentions examples of ThymeLeaf and Java Spring Templating languages 
+
 
 
 
